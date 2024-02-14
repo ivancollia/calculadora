@@ -1,0 +1,47 @@
+body{
+    padding: 30px;
+    background-color: black;
+}
+.display{
+    font-family: serif;
+    padding: 10px;
+    font-size: 30px;
+    height: 300px;
+    width: 300px;
+    border: solid rgb(61, 222, 2) 1px;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+}
+.numeros{
+    padding: 20px;
+}
+.pantalla{
+    border-radius: 10px;
+    border: solid rgb(61, 222, 2) 1px;
+    background-color: white;
+}
+.boton{
+    background-color: rgb(122, 121, 121);
+    width: 40px;
+    font-size: 25px;
+    padding: 2%;
+    border-radius: 10px;
+}
+.boton:hover{
+    background-color: rgb(95, 94, 94);
+    padding: 1%;
+    font-size: 24px;
+}
+.mas{
+    background-color: rgb(61, 222, 2);
+    width: 52%;
+}
+.mas:hover{
+    background-color: rgb(37, 135, 1);
+}
+
+/* @media only screen and (max-width: 600px){
+}
+plantilla responsiva */
